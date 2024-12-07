@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm ScrelDev4!
+# 👋 Hey there! I'm EK ANAS!
 
 I'm a passionate developer always on the lookout for exciting challenges. I love crafting innovative solutions using Flutter and Dart, especially with Riverpod for state management. My current focus is on building seamless user experiences and experimenting with modern architectures.
 
